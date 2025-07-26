@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-We are the Goofy People!
 <!--
 
 **Here are some ideas to get you started:**
